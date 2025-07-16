@@ -77,6 +77,8 @@
         </div>
 
     </section>
+<link rel="stylesheet" href="css/style.css">
+    
 
 </body>
 
